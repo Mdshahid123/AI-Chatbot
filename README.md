@@ -282,7 +282,7 @@ Configure required environment variables, including any API key needed by your s
 
 Aspiring Software Developer | Python | FastAPI | LangChain | Generative AI
 
-- GitHub: [Your GitHub Profile](https://github.com/YOUR_USERNAME)
+- GitHub: [Your GitHub Profile](https://github.com/Mdshahid123)
 - Live Demo: Add your deployed Streamlit URL here.
 
 ---
