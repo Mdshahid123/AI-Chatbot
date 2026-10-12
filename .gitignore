@@ -1,0 +1,16 @@
+# Virtual environments
+.venv/
+backend/.venv/
+frontend/.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Keep dependency lockfiles in Git
+!backend/uv.lock
+!frontend/uv.lock

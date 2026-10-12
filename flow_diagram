@@ -1,0 +1,18 @@
+User types a message
+        |
+        v
+Streamlit frontend (app.py)
+        |
+        | POST /chat
+        | personality + history + message
+        v
+FastAPI backend (main.py)
+        |
+        v
+LangChain --> Ollama model
+        |
+        v
+AI response returned as JSON
+        |
+        v
+Streamlit displays the answer
